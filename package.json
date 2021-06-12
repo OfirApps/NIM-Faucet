@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cloudflare-express": "^1.0.1",
+    "express": "^4.16.3",
+    "express-rate-limit": "^2.11.0",
+    "express-recaptcha": "^4.0.2",
+    "express-validator": "^5.1.2"
+  }
+}
